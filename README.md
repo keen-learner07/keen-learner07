@@ -9,6 +9,6 @@
 
 ### 📊 My LeetCode Stats:
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/khushi_0_7?theme=dark&ext=heatmap)](https://leetcode.com/khushi_0_7/)
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=khushi_0_7&theme=dark)](https://leetcode.com/khushi_0_7/)
 
 </div>
